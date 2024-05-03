@@ -7,11 +7,11 @@ According to [The Well](https://www.unc.edu/discover/carolinas-money-where-we-ge
 
 ### [Average Salary Across UNC System Schools](https://public.tableau.com/views/TotalSalaryExpenditurebySchool/totalsalarybyschool?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
-This graph shows that UNC spend the most money on salaries, spending nearly $1.5 billion out of a total $4.2 billion accross all UNC System Schools.
+This graph shows that UNC- Chapel Hill spends the most money on salaries, spending over $1.5 billion out of a total $4.2 billion accross all UNC System Schools.
 
 <img src="images/TotalSalarySystem.png" alt="TotalSalarySystem" width="700"/>
 
-### [Avg Salary by System](https://public.tableau.com/views/AverageSalarybySchool/avgsalarybyschool?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+### [Average Salary by School in UNC System](https://public.tableau.com/views/AverageSalarybySchool/avgsalarybyschool?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 Even when averaging all salaries, UNC still spends more money per employee than other universities in the UNC system.
 
@@ -19,23 +19,23 @@ Even when averaging all salaries, UNC still spends more money per employee than 
 
 Let's take a closer look at how UNCCH's salaries are distributed.
 
-### [Total Salary by Department at UNCCH](https://public.tableau.com/views/TotalSalaryExpenditurebyDepartmentatUNCCH/TotalSalaryExpenditure?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+### [Total Salary Expenditure by Department at UNC-CH](https://public.tableau.com/views/TotalSalaryExpenditurebyDepartmentatUNCCH/TotalSalaryExpenditure?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="images/TotalSalaryUNCCH.png" width="800"/>
 
-### [Average Salary By Department](https://public.tableau.com/views/UNCCHSalaryData/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+### [Average Salary across Departments at UNC-CH](https://public.tableau.com/views/UNCCHSalaryData/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 This graph showcases the disparity in pay accross varying departments at UNC.
 
 <img src="images/SalaryByDept.png" alt="SalaryByDept" width="700"/>
 
-### [Total Salary Expenditure for Computer Science and Art Departments](https://public.tableau.com/views/TotalSalaryExpenditureComputerScienceArtDepartments/Sheet3?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### [Total Salary Expenditure for Computer Science and Art Departments at UNC-CH](https://public.tableau.com/views/TotalSalaryExpenditureComputerScienceArtDepartments/Sheet3?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="images/TotalCSArt.png" alt="TotalCSArt" width="700"/>
 
-### [Maximum Salary by Department at UNCCH](https://public.tableau.com/views/MaximumSalaryforDepartmentsatUNCCH/AvgSalaryExpenditure?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### [Maximum Salary across Departments at UNC-CH](https://public.tableau.com/views/MaximumSalaryforDepartmentsatUNCCH/AvgSalaryExpenditure?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="images/MaxSalaryByDept.png" alt="MaxSalaryByDept" width="700"/>
 
-### [Maximum Salary by UNC System Schools](https://public.tableau.com/views/LargestSalaryforUNCSystemSchools/maxsalarybyschool?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+### [Maximum Salary for each UNC System School](https://public.tableau.com/views/LargestSalaryforUNCSystemSchools/maxsalarybyschool?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 <img src="images/MaxSalarySystem.png" alt="MaxSalarySystem" width="800"/>
